@@ -1,0 +1,3 @@
+[submodule "libraries/WebSockets"]
+	path = libraries/WebSockets
+	url = https://github.com/Links2004/arduinoWebSockets.git
